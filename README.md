@@ -28,7 +28,7 @@ stations.
 
     * Maximum weight of transported load.
 
-    * Electric grid connections for certain types of railroad cars.**
+    * Electric grid connections for certain types of railroad cars.
 
     * Automatic unique identification number assignment.
 
