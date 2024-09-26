@@ -1,0 +1,698 @@
+Train ID: PL-7836 Train set name: PJATK railways
+Whole distance: 3759.0
+Source station: Krakow Destination station: Osweciem
+Railroad car ID: PL-2422
+Railroad car weight: 2320
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4452
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7739
+Railroad car weight: 870
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4367
+Railroad car weight: 760
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9778
+Railroad car weight: 760
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2978
+Railroad car weight: 678
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4048
+Railroad car weight: 400
+Shipper name: ToxicMaterialsPL
+
+Train ID: PL-7238 Train set name: PJATK railways
+Whole distance: 3744.0
+Source station: Osweciem Destination station: Ostrava
+Railroad car ID: PL-2676
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5593
+Railroad car weight: 760
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1634
+Railroad car weight: 760
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6371
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6786
+Railroad car weight: 400
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-8946
+Railroad car weight: 160
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-8051
+Railroad car weight: 0
+Shipper name: PKP Intercity
+
+Train ID: PL-7465 Train set name: PJATK railways
+Whole distance: 3664.0
+Source station: Ostrava Destination station: Prague
+Railroad car ID: PL-8046
+Railroad car weight: 3120
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2069
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1652
+Railroad car weight: 860
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1825
+Railroad car weight: 780
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9313
+Railroad car weight: 777
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6337
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1565
+Railroad car weight: 400
+Shipper name: ToxicMaterialsPL
+
+Train ID: PL-4650 Train set name: PJATK railways
+Whole distance: 3347.0
+Source station: Lodz Destination station: Kielce
+Railroad car ID: PL-9036
+Railroad car weight: 2400
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2464
+Railroad car weight: 900
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-1791
+Railroad car weight: 500
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7055
+Railroad car weight: 350
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2487
+Railroad car weight: 200
+Shipper name: PKP Intercity
+
+Train ID: PL-3395 Train set name: PJATK railways
+Whole distance: 3336.0
+Source station: Kielce Destination station: Krakow
+Railroad car ID: PL-6250
+Railroad car weight: 950
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-3140
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7767
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1609
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5947
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-3145
+Railroad car weight: 500
+Shipper name: PKP Intercity
+
+Train ID: PL-1080 Train set name: PJATK railways
+Whole distance: 2675.0
+Source station: Lodz Destination station: Poznan
+Railroad car ID: PL-9981
+Railroad car weight: 4720
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1561
+Railroad car weight: 2000
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6411
+Railroad car weight: 1500
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-8101
+Railroad car weight: 500
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1868
+Railroad car weight: 300
+Shipper name: PKP Intercity
+
+Train ID: PL-1502 Train set name: PJATK railways
+Whole distance: 2614.0
+Source station: Poznan Destination station: Wroclaw
+Railroad car ID: PL-2655
+Railroad car weight: 6240
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7325
+Railroad car weight: 900
+Shipper name: DHL
+
+Railroad car ID: PL-3829
+Railroad car weight: 900
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-7918
+Railroad car weight: 789
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6337
+Railroad car weight: 705
+Shipper name: DHL
+
+Railroad car ID: PL-2137
+Railroad car weight: 500
+Shipper name: Rotary Gas Meter
+
+Train ID: PL-1032 Train set name: PJATK railways
+Whole distance: 2606.0
+Source station: Warsaw Destination station: Lodz
+Railroad car ID: PL-4322
+Railroad car weight: 5600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7166
+Railroad car weight: 700
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2010
+Railroad car weight: 500
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5553
+Railroad car weight: 400
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4711
+Railroad car weight: 400
+Shipper name: PKP Intercity
+
+Train ID: PL-5054 Train set name: PJATK railways
+Whole distance: 766.0
+Source station: Brest Destination station: Gomel
+Railroad car ID: PL-8208
+Railroad car weight: 3120
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1119
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9022
+Railroad car weight: 700
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2673
+Railroad car weight: 700
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2023
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6154
+Railroad car weight: 560
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5641
+Railroad car weight: 500
+Shipper name: ToxicMaterialsPL
+
+Train ID: PL-5986 Train set name: PJATK railways
+Whole distance: 729.0
+Source station: Gomel Destination station: Minsk
+Railroad car ID: PL-3279
+Railroad car weight: 980
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6515
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4903
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9218
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-8656
+Railroad car weight: 600
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-5643
+Railroad car weight: 560
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7523
+Railroad car weight: 500
+Shipper name: PKP Intercity
+
+Train ID: PL-6443 Train set name: PJATK railways
+Whole distance: 712.0
+Source station: Lublin Destination station: Kiev
+Railroad car ID: PL-9327
+Railroad car weight: 3120
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7169
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-8696
+Railroad car weight: 760
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7423
+Railroad car weight: 490
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-7889
+Railroad car weight: 460
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4613
+Railroad car weight: 300
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5946
+Railroad car weight: 260
+Shipper name: PKP Intercity
+
+Train ID: PL-3145 Train set name: PJATK railways
+Whole distance: 700.0
+Source station: Minsk Destination station: Vitebsk
+Railroad car ID: PL-7640
+Railroad car weight: 4720
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4513
+Railroad car weight: 2000
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-8257
+Railroad car weight: 1500
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-9373
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1678
+Railroad car weight: 300
+Shipper name: PKP Intercity
+
+Train ID: PL-1264 Train set name: PJATK railways
+Whole distance: 650.0
+Source station: Vitebsk Destination station: Grodno
+Railroad car ID: PL-9528
+Railroad car weight: 3120
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6519
+Railroad car weight: 1000
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7746
+Railroad car weight: 700
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-4550
+Railroad car weight: 700
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2711
+Railroad car weight: 400
+Shipper name: PKP Intercity
+
+Train ID: PL-2284 Train set name: PJATK railways
+Whole distance: 589.0
+Source station: Minsk Destination station: Brest
+Railroad car ID: PL-2339
+Railroad car weight: 3120
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5089
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1352
+Railroad car weight: 700
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-3190
+Railroad car weight: 700
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6888
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9436
+Railroad car weight: 600
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-9898
+Railroad car weight: 560
+Shipper name: PKP Intercity
+
+Train ID: PL-9383 Train set name: PJATK railways
+Whole distance: 570.0
+Source station: Grodno Destination station: Brest
+Railroad car ID: PL-3994
+Railroad car weight: 2400
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-3167
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9200
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5762
+Railroad car weight: 900
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-3936
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2301
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7935
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Train ID: PL-7368 Train set name: PJATK railways
+Whole distance: 400.0
+Source station: Grodno Destination station: Minsk
+Railroad car ID: PL-1149
+Railroad car weight: 4800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6041
+Railroad car weight: 960
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-1189
+Railroad car weight: 700
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7255
+Railroad car weight: 489
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1539
+Railroad car weight: 250
+Shipper name: PKP Intercity
+
+Train ID: PL-1709 Train set name: PJATK railways
+Whole distance: 300.0
+Source station: Litva Destination station: Bialystok
+Railroad car ID: PL-9635
+Railroad car weight: 5600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1156
+Railroad car weight: 1100
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-8978
+Railroad car weight: 1000
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-2565
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7174
+Railroad car weight: 890
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-8006
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2594
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Train ID: PL-7936 Train set name: PJATK railways
+Whole distance: 230.0
+Source station: Krakow Destination station: Zakopane
+Railroad car ID: PL-3263
+Railroad car weight: 5440
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5459
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1718
+Railroad car weight: 860
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4791
+Railroad car weight: 760
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2404
+Railroad car weight: 760
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5409
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2160
+Railroad car weight: 400
+Shipper name: ToxicMaterialsPL
+
+Train ID: PL-8341 Train set name: PJATK railways
+Whole distance: 210.0
+Source station: Gdansk Destination station: Warsaw
+Railroad car ID: PL-8495
+Railroad car weight: 4800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7028
+Railroad car weight: 700
+Shipper name: DHL
+
+Railroad car ID: PL-6710
+Railroad car weight: 700
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-1263
+Railroad car weight: 600
+Shipper name: Rotary Gas Meter
+
+Railroad car ID: PL-4288
+Railroad car weight: 500
+Shipper name: DHL
+
+Railroad car ID: PL-7636
+Railroad car weight: 500
+Shipper name: PKP Intercity
+
+Train ID: PL-5633 Train set name: PJATK railways
+Whole distance: 200.0
+Source station: Grodno Destination station: Bialystok
+Railroad car ID: PL-5035
+Railroad car weight: 3200
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6959
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-7628
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-3352
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5327
+Railroad car weight: 400
+Shipper name: PKP Intercity
+
+Train ID: PL-1753 Train set name: PJATK railways
+Whole distance: 180.0
+Source station: Bialystok Destination station: Warsaw
+Railroad car ID: PL-7308
+Railroad car weight: 6320
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9182
+Railroad car weight: 1000
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9228
+Railroad car weight: 1000
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-2331
+Railroad car weight: 300
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4591
+Railroad car weight: 300
+Shipper name: PKP Intercity
+
+Train ID: PL-4224 Train set name: PJATK railways
+Whole distance: 157.0
+Source station: Kielce Destination station: Rzeszow
+Railroad car ID: PL-6695
+Railroad car weight: 3120
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1701
+Railroad car weight: 1000
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4920
+Railroad car weight: 1000
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-2476
+Railroad car weight: 400
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2973
+Railroad car weight: 300
+Shipper name: PKP Intercity
+
+Train ID: PL-4315 Train set name: PJATK railways
+Whole distance: 145.0
+Source station: Lublin Destination station: Lviv
+Railroad car ID: PL-6955
+Railroad car weight: 5520
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5876
+Railroad car weight: 960
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-6851
+Railroad car weight: 900
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4183
+Railroad car weight: 860
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2331
+Railroad car weight: 760
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4327
+Railroad car weight: 690
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1565
+Railroad car weight: 400
+Shipper name: ToxicMaterialsPL
+
+Train ID: PL-8742 Train set name: PJATK railways
+Whole distance: 140.0
+Source station: Poznan Destination station: Opole
+Railroad car ID: PL-7461
+Railroad car weight: 4720
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-2124
+Railroad car weight: 2300
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-8950
+Railroad car weight: 1000
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-5629
+Railroad car weight: 600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-4378
+Railroad car weight: 500
+Shipper name: PKP Intercity
+
+Train ID: PL-2554 Train set name: PJATK railways
+Whole distance: 99.0
+Source station: Lodz Destination station: Lublin
+Railroad car ID: PL-8139
+Railroad car weight: 3200
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1023
+Railroad car weight: 3200
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1889
+Railroad car weight: 1000
+Shipper name: ToxicMaterialsPL
+
+Railroad car ID: PL-7199
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-3327
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-3352
+Railroad car weight: 800
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9914
+Railroad car weight: 700
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-1958
+Railroad car weight: 500
+Shipper name: PKP Intercity
+
+Train ID: PL-8381 Train set name: PJATK railways
+Whole distance: 10.0
+Source station: Gomel Destination station: Test2
+Railroad car ID: PL-4070
+Railroad car weight: 3600
+Shipper name: PKP Intercity
+
+Railroad car ID: PL-9136
+Railroad car weight: 670
+Shipper name: PKP Intercity
+
