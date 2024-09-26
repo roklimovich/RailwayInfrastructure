@@ -7,7 +7,7 @@ Railway Infrastructure
 This project is a simulation tool for managing and maintaining railway infrastructure logistics.
 The application allows users to manage railway stations, connections, line intersections, trainsets, and more through
 a graphical user interface (GUI). The core functionality involves creating and controlling trainsets
-(composed of locomotives and railroad cars) while simulating their movements and logistics across a graph of railway
+while simulating their movements and logistics across a graph of railway
 stations.
 
 ## Features
